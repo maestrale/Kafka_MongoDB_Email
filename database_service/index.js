@@ -13,8 +13,8 @@ const options = {
     query: { $match: { numLinea : '3354323423', "date": {$gte: '20181001', $lte: '20181103'} }}
 };
 let when={
-    atSecond: '39 * * * * *', 
-    atMinute: '39 * * * *',
+    atSecond: '3 * * * * *', 
+    atMinute: '3 * * * *',
 };
 
 var ip_address=ip.address();
