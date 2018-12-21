@@ -1,0 +1,2 @@
+#!/bin/sh
+cd /Users/francesco/email_kafka_project/v0.2/email_service && node app.js
