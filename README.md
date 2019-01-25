@@ -1,3 +1,5 @@
+<img width="878" alt="diagram" src="https://user-images.githubusercontent.com/26854301/51741131-07220800-2064-11e9-9785-f73b92fb42da.png">
+
 Microservizi in Node.JS: MongoDB, Email, Kafka
 
 Introduzione:
